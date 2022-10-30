@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    This is the header tag
+  </head>
+  <body>
+    <p>This is the paragraph</p>
+     <ol>
+          <li>flea treatment</li>
+          <li>thunder</li>
+          <li>other cats</li>
+     </ol>
+  </body>
+</html>
