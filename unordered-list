@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    This is the header tag
+  </head>
+  <body>
+     <ul>
+          <li>bananas</li>
+          <li>oranges</li>
+          <li>apples</li>
+     </ul>
+  </body>
+</html>
